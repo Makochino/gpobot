@@ -1,0 +1,1 @@
+worker: python gpo_bot.py
