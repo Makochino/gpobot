@@ -2,3 +2,4 @@ discord.py
 python-dotenv
 flask
 fuzzywuzzy
+python-Levenshtein
