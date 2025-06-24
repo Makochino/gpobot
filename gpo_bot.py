@@ -29,7 +29,7 @@ items = {
     "magu": 600,
     "goru (gold)": 100,
     "moku (smoke)": 100,
-    "pika": 4500,
+    "pika": 3500,
     "kira": 100,
     "ope": 2000,
     "tori": 2500,
@@ -39,7 +39,7 @@ items = {
     "mochi": 6500,
 
     # Gamepass
-    "legendary chest": 900,
+    "legendary chest": 700,
     "mythical chest": 6000,
     "all seeing eye": 24500,
     "blo's ase": 35000,
