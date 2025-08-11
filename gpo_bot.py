@@ -11,7 +11,7 @@ intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
-GPO_TRADE_CHANNEL_ID = 1384570705772810330
+GPO_TRADE_CHANNEL_ID = 1384570705772810330 #for example
 
 items = {
     # Fruits
